@@ -178,8 +178,8 @@ git clone https://github.com/YOUR_USERNAME/crimson-fate.git
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- itch.io: [your-itch-page](https://YOUR_USERNAME.itch.io)
+- GitHub: [@YOUR_USERNAME](https://github.com/TakamoriSubaru)
+- itch.io: [your-itch-page](https://takamorisubaru.itch.io/crimson-fate)
 
 ---
 
